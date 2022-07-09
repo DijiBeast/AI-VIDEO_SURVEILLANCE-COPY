@@ -1,0 +1,47 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 2;
+}
+
+.copy_right_footer
+{
+    line-height: 2;
+    position: fixed;
+    width: 100%;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    bottom: 0;
+}
+
+canvas
+{
+    border: 5px solid red;
+    margin-top: 180px;
+    border-width: 20px;
+    border-radius: 10px;
+}
+
+p
+{
+    color: white;
+}
+
+#status
+{
+    margin
+}
+
+#number
+{
+    margin-bottom: 
+}
